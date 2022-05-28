@@ -1,6 +1,6 @@
 # Git e GitHub
 
-	##### Aplicativos úteis ao Git
+##### Aplicativos úteis ao Git
 
 Typora
 
